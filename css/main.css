@@ -38,7 +38,7 @@ body header a {
     display: grid;
     -ms-grid-columns: 50% auto;
         grid-template-columns: 50% auto;
-        grid-template-areas: "primary"  "card";
+        grid-template-areas: "primary card";
   }
 }
 
